@@ -1,0 +1,23 @@
+# Data (too large / not redistributable)
+data/*.dta
+data/*.csv
+data/swiid9_91/
+
+# Outputs (reproducible)
+output/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
