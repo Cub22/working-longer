@@ -4,8 +4,6 @@
 
 Master's thesis · University of Warsaw, Faculty of Economic Sciences · 2026
 
-Jakub Ryłow · Supervisor: Prof. dr hab. Michał Brzeziński
-
 ---
 
 ## Overview
